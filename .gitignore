@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.obj
+*.out
+*.exe
+
+# Debug/build directories
+build/
+bin/
+debug/
+release/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
